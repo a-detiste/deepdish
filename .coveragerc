@@ -1,7 +1,6 @@
 [run]
 omit = 
     deepdish/tests/*
-    deepdish/six.py
 
 [report]
 omit =
@@ -9,4 +8,3 @@ omit =
     */site-packages/nose/*
     *__init__*
     deepdish/tests/*
-    deepdish/six.py

@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-from __future__ import division, print_function, absolute_import 
 
 from setuptools import setup
 import os
@@ -16,8 +15,6 @@ CLASSIFIERS = [
     'Intended Audience :: Science/Research',
     'License :: OSI Approved :: BSD License',
     'Programming Language :: Python',
-    'Programming Language :: Python :: 2',
-    'Programming Language :: Python :: 2.7',
     'Programming Language :: Python :: 3',
     'Programming Language :: Python :: 3.4',
     'Topic :: Scientific/Engineering',
